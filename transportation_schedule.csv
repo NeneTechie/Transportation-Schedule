@@ -1,0 +1,201 @@
+trip_id,route,operator,origin,destination,bus_stop,departure_time,arrival_time,trip_date
+1,Route B,MetroTrans,Lagos,Abuja,Terminal 1,18:04:24,5:28:20,6/18/2024
+2,Route C,CityRide,Enugu,Port Harcourt,Terminal 2,0:26:35,5:21:02,6/25/2024
+3,Route A,CityRide,Abuja,Kano,Stop D,10:36:02,13:34:27,6/2/2024
+4,Route B,GreenLine,Kano,Port Harcourt,Stop C,5:07:51,3:15:57,6/27/2024
+5,Route C,GreenLine,Abuja,Enugu,Stop C,21:49:37,20:12:25,6/23/2024
+6,Route D,GreenLine,Kano,Enugu,Stop C,11:34:12,12:09:24,6/9/2024
+7,Route D,GreenLine,Kano,Port Harcourt,Stop C,10:43:31,17:49:05,6/16/2024
+8,Route B,CityRide,Abuja,Enugu,Stop D,19:55:24,3:17:42,6/14/2024
+9,Route C,QuickMove,Lagos,Kano,Terminal 2,22:35:11,10:18:25,6/5/2024
+10,Route D,CityRide,Enugu,Port Harcourt,Stop C,1:45:31,22:15:58,6/29/2024
+11,Route B,MetroTrans,Port Harcourt,Kano,Stop B,0:42:01,0:54:22,6/18/2024
+12,Route C,MetroTrans,Enugu,Lagos,Stop D,4:33:20,5:01:46,6/16/2024
+13,Route C,MetroTrans,Port Harcourt,Kano,Stop A,12:50:52,2:30:46,6/26/2024
+14,Route C,QuickMove,Abuja,Kano,Stop A,1:16:05,18:07:08,6/21/2024
+15,Route A,GreenLine,Lagos,Abuja,Terminal 2,20:32:16,3:59:19,6/23/2024
+16,Route B,MetroTrans,Port Harcourt,Enugu,Stop A,17:53:25,21:29:49,6/13/2024
+17,Route B,CityRide,Port Harcourt,Abuja,Terminal 1,21:43:08,10:26:41,7/1/2024
+18,Route D,GreenLine,Kano,Lagos,Stop B,1:31:06,3:52:05,6/22/2024
+19,Route D,MetroTrans,Abuja,Port Harcourt,Stop C,16:53:50,15:53:54,6/5/2024
+20,Route D,MetroTrans,Enugu,Abuja,Stop D,17:58:59,19:20:08,6/10/2024
+21,Route D,CityRide,Enugu,Abuja,Stop B,17:32:36,0:17:01,6/1/2024
+22,Route C,CityRide,Abuja,Enugu,Stop C,19:21:43,22:15:01,6/24/2024
+23,Route D,QuickMove,Kano,Enugu,Stop A,14:34:05,11:45:33,6/3/2024
+24,Route A,GreenLine,Lagos,Abuja,Stop C,13:41:26,13:01:42,6/22/2024
+25,Route D,QuickMove,Enugu,Port Harcourt,Stop B,13:39:11,10:09:46,6/21/2024
+26,Route D,MetroTrans,Port Harcourt,Kano,Terminal 2,3:58:52,14:15:30,6/15/2024
+27,Route B,CityRide,Enugu,Kano,Terminal 1,10:34:13,17:50:51,6/6/2024
+28,Route D,CityRide,Abuja,Port Harcourt,Stop C,20:01:06,12:51:20,6/28/2024
+29,Route C,GreenLine,Port Harcourt,Lagos,Stop B,7:20:05,12:52:52,6/22/2024
+30,Route A,MetroTrans,Kano,Enugu,Stop A,23:06:24,14:47:43,6/17/2024
+31,Route B,QuickMove,Enugu,Kano,Stop A,2:11:11,13:44:05,6/3/2024
+32,Route B,QuickMove,Port Harcourt,Kano,Stop A,17:28:26,4:52:53,6/16/2024
+33,Route A,QuickMove,Abuja,Lagos,Stop B,18:11:37,4:28:02,6/7/2024
+34,Route C,QuickMove,Port Harcourt,Kano,Terminal 1,15:46:14,21:48:00,6/6/2024
+35,Route B,CityRide,Abuja,Port Harcourt,Stop B,11:51:44,19:35:19,6/4/2024
+36,Route B,CityRide,Kano,Lagos,Stop D,13:05:48,13:44:08,6/8/2024
+37,Route C,GreenLine,Lagos,Abuja,Stop D,17:09:19,8:33:04,6/27/2024
+38,Route D,CityRide,Port Harcourt,Lagos,Stop D,17:21:47,19:52:24,7/1/2024
+39,Route A,CityRide,Abuja,Port Harcourt,Stop A,17:17:45,3:22:56,6/24/2024
+40,Route D,MetroTrans,Port Harcourt,Lagos,Stop A,11:49:39,7:12:25,6/27/2024
+41,Route C,GreenLine,Port Harcourt,Kano,Stop B,15:54:06,12:56:57,6/14/2024
+42,Route B,MetroTrans,Abuja,Enugu,Terminal 1,7:01:54,12:53:25,6/22/2024
+43,Route C,CityRide,Port Harcourt,Enugu,Terminal 1,23:22:17,22:46:08,6/13/2024
+44,Route D,MetroTrans,Lagos,Enugu,Stop C,18:28:25,22:15:16,6/10/2024
+45,Route A,MetroTrans,Kano,Enugu,Terminal 1,12:32:14,17:24:19,6/18/2024
+46,Route B,CityRide,Lagos,Abuja,Stop D,3:56:25,7:25:27,6/23/2024
+47,Route B,QuickMove,Kano,Port Harcourt,Terminal 1,9:35:26,18:43:51,6/30/2024
+48,Route A,GreenLine,Abuja,Enugu,Stop A,17:29:14,14:56:18,6/27/2024
+49,Route D,QuickMove,Port Harcourt,Abuja,Stop A,11:06:55,4:09:16,6/20/2024
+50,Route D,GreenLine,Enugu,Abuja,Stop B,17:19:56,1:27:22,6/9/2024
+51,Route D,QuickMove,Kano,Abuja,Stop B,11:05:19,19:26:48,6/29/2024
+52,Route A,GreenLine,Lagos,Abuja,Stop B,0:01:09,12:43:20,6/7/2024
+53,Route B,CityRide,Enugu,Kano,Stop B,10:53:37,18:49:04,6/14/2024
+54,Route B,CityRide,Kano,Abuja,Stop C,13:18:55,3:22:43,6/12/2024
+55,Route B,CityRide,Lagos,Enugu,Stop C,2:47:47,1:29:09,6/22/2024
+56,Route A,CityRide,Abuja,Kano,Terminal 1,22:58:13,14:48:32,6/11/2024
+57,Route B,MetroTrans,Abuja,Enugu,Terminal 1,5:55:07,0:13:17,6/27/2024
+58,Route D,QuickMove,Port Harcourt,Abuja,Stop C,13:57:32,20:11:11,6/29/2024
+59,Route B,CityRide,Abuja,Kano,Terminal 2,0:58:50,3:47:45,6/1/2024
+60,Route D,CityRide,Abuja,Lagos,Stop A,2:42:44,10:11:04,6/17/2024
+61,Route B,QuickMove,Lagos,Kano,Terminal 1,20:20:27,6:16:10,6/26/2024
+62,Route C,QuickMove,Kano,Port Harcourt,Terminal 2,0:50:29,3:19:20,6/14/2024
+63,Route C,CityRide,Kano,Enugu,Stop D,17:39:52,15:46:47,6/4/2024
+64,Route D,MetroTrans,Lagos,Abuja,Terminal 2,22:16:01,17:07:57,6/27/2024
+65,Route B,CityRide,Lagos,Port Harcourt,Stop D,22:43:41,18:30:43,6/14/2024
+66,Route B,QuickMove,Lagos,Port Harcourt,Terminal 1,16:34:18,12:34:44,7/1/2024
+67,Route D,MetroTrans,Enugu,Lagos,Terminal 1,0:10:07,16:34:18,6/11/2024
+68,Route A,MetroTrans,Abuja,Port Harcourt,Terminal 1,4:32:45,10:58:25,6/5/2024
+69,Route D,QuickMove,Abuja,Lagos,Terminal 2,20:54:48,12:12:54,6/19/2024
+70,Route C,QuickMove,Abuja,Port Harcourt,Stop D,6:08:29,16:35:42,6/28/2024
+71,Route A,GreenLine,Kano,Lagos,Stop C,20:00:21,1:56:53,6/21/2024
+72,Route A,QuickMove,Lagos,Kano,Terminal 1,3:35:13,3:31:52,6/7/2024
+73,Route A,GreenLine,Enugu,Lagos,Terminal 2,11:21:41,12:53:08,6/18/2024
+74,Route C,CityRide,Abuja,Enugu,Stop A,8:58:07,15:06:05,6/4/2024
+75,Route A,QuickMove,Kano,Abuja,Terminal 2,17:49:27,5:24:37,6/11/2024
+76,Route D,MetroTrans,Enugu,Abuja,Stop C,22:24:19,23:32:27,6/6/2024
+77,Route D,QuickMove,Port Harcourt,Lagos,Terminal 2,1:46:18,7:13:28,6/23/2024
+78,Route B,CityRide,Port Harcourt,Kano,Stop C,23:28:41,2:57:21,6/3/2024
+79,Route C,MetroTrans,Enugu,Kano,Stop D,0:13:47,9:04:26,6/3/2024
+80,Route C,CityRide,Port Harcourt,Abuja,Terminal 2,0:17:57,15:06:00,6/11/2024
+81,Route B,CityRide,Kano,Abuja,Stop B,20:20:56,18:55:19,6/5/2024
+82,Route B,QuickMove,Port Harcourt,Lagos,Stop A,13:55:51,21:35:45,6/11/2024
+83,Route D,CityRide,Port Harcourt,Enugu,Stop A,17:25:16,5:19:02,6/1/2024
+84,Route B,GreenLine,Lagos,Abuja,Stop A,8:49:58,16:06:33,6/23/2024
+85,Route C,QuickMove,Abuja,Enugu,Terminal 1,10:44:39,20:48:03,6/30/2024
+86,Route C,CityRide,Kano,Lagos,Stop A,23:05:38,23:56:08,7/1/2024
+87,Route D,CityRide,Lagos,Abuja,Stop A,17:10:24,14:12:42,6/26/2024
+88,Route D,GreenLine,Enugu,Port Harcourt,Terminal 1,5:22:10,5:41:34,6/2/2024
+89,Route D,QuickMove,Kano,Abuja,Stop A,7:35:52,13:48:41,6/25/2024
+90,Route C,GreenLine,Port Harcourt,Abuja,Terminal 1,0:26:34,21:59:06,6/4/2024
+91,Route C,CityRide,Enugu,Lagos,Stop B,11:00:10,0:04:13,6/18/2024
+92,Route B,CityRide,Kano,Port Harcourt,Stop A,8:36:57,8:32:00,6/28/2024
+93,Route D,QuickMove,Lagos,Port Harcourt,Stop D,23:35:27,9:49:33,6/25/2024
+94,Route B,CityRide,Kano,Abuja,Stop C,3:45:19,11:09:18,6/24/2024
+95,Route A,QuickMove,Lagos,Enugu,Stop C,12:11:40,1:00:32,6/10/2024
+96,Route C,QuickMove,Abuja,Lagos,Terminal 1,1:04:44,1:06:32,6/25/2024
+97,Route A,CityRide,Port Harcourt,Kano,Stop B,6:44:45,23:53:42,6/3/2024
+98,Route C,GreenLine,Lagos,Abuja,Stop A,14:03:57,12:42:25,6/4/2024
+99,Route A,GreenLine,Kano,Enugu,Stop B,18:56:59,11:04:23,6/15/2024
+100,Route A,MetroTrans,Port Harcourt,Kano,Stop A,19:29:37,2:24:25,6/2/2024
+101,Route B,QuickMove,Kano,Abuja,Stop B,18:13:03,14:22:59,6/30/2024
+102,Route B,GreenLine,Abuja,Lagos,Terminal 1,4:22:05,15:28:05,6/5/2024
+103,Route D,GreenLine,Enugu,Port Harcourt,Terminal 2,7:26:27,13:03:16,6/20/2024
+104,Route B,QuickMove,Lagos,Kano,Stop A,2:25:56,9:35:45,6/27/2024
+105,Route D,CityRide,Enugu,Abuja,Stop D,1:06:00,22:33:10,6/9/2024
+106,Route A,MetroTrans,Enugu,Kano,Terminal 1,0:37:00,23:15:49,6/29/2024
+107,Route B,QuickMove,Abuja,Lagos,Stop C,3:20:10,13:47:44,6/17/2024
+108,Route C,GreenLine,Enugu,Kano,Terminal 2,17:06:29,0:17:27,6/8/2024
+109,Route C,CityRide,Abuja,Port Harcourt,Terminal 2,3:25:44,12:19:43,6/23/2024
+110,Route D,CityRide,Abuja,Kano,Terminal 1,15:23:36,9:02:19,6/29/2024
+111,Route B,GreenLine,Enugu,Kano,Stop B,8:12:01,2:00:59,6/2/2024
+112,Route A,MetroTrans,Port Harcourt,Kano,Stop D,3:42:49,13:07:34,6/5/2024
+113,Route B,CityRide,Port Harcourt,Enugu,Terminal 2,1:20:27,2:31:07,6/11/2024
+114,Route A,CityRide,Kano,Enugu,Terminal 1,21:46:26,15:32:30,6/3/2024
+115,Route B,QuickMove,Kano,Lagos,Stop B,11:36:51,22:11:37,6/26/2024
+116,Route A,QuickMove,Lagos,Enugu,Terminal 2,12:40:13,15:14:47,6/29/2024
+117,Route D,MetroTrans,Abuja,Port Harcourt,Stop D,17:34:06,23:50:19,6/24/2024
+118,Route C,CityRide,Kano,Abuja,Stop C,19:04:30,9:10:28,6/5/2024
+119,Route A,CityRide,Port Harcourt,Kano,Stop D,12:23:58,12:43:38,6/14/2024
+120,Route A,GreenLine,Kano,Lagos,Stop B,1:48:37,14:58:48,6/1/2024
+121,Route A,QuickMove,Port Harcourt,Lagos,Stop B,5:21:59,17:11:20,6/2/2024
+122,Route D,QuickMove,Enugu,Port Harcourt,Stop C,20:46:03,14:26:05,6/29/2024
+123,Route B,MetroTrans,Lagos,Enugu,Stop C,18:18:34,4:10:51,6/14/2024
+124,Route D,QuickMove,Port Harcourt,Lagos,Stop B,2:06:48,5:34:48,6/26/2024
+125,Route C,MetroTrans,Lagos,Kano,Terminal 2,8:43:12,14:58:37,6/5/2024
+126,Route A,MetroTrans,Enugu,Port Harcourt,Stop D,5:07:43,10:27:22,6/4/2024
+127,Route D,CityRide,Kano,Enugu,Stop C,23:46:02,20:36:08,6/20/2024
+128,Route B,GreenLine,Kano,Port Harcourt,Stop A,18:42:02,9:43:53,6/9/2024
+129,Route C,MetroTrans,Abuja,Enugu,Stop A,18:36:30,3:02:35,6/3/2024
+130,Route B,QuickMove,Lagos,Abuja,Terminal 2,14:29:35,5:34:36,6/19/2024
+131,Route B,QuickMove,Port Harcourt,Lagos,Terminal 1,5:07:23,5:26:50,6/11/2024
+132,Route D,MetroTrans,Lagos,Kano,Terminal 1,1:58:31,16:45:39,6/27/2024
+133,Route B,QuickMove,Enugu,Abuja,Stop C,17:54:20,11:29:49,6/16/2024
+134,Route B,QuickMove,Lagos,Enugu,Terminal 1,3:42:17,11:59:03,6/3/2024
+135,Route D,MetroTrans,Kano,Enugu,Stop D,17:35:06,2:35:12,6/29/2024
+136,Route D,CityRide,Port Harcourt,Abuja,Stop B,9:19:03,17:57:42,6/20/2024
+137,Route A,MetroTrans,Kano,Lagos,Stop C,20:54:27,8:34:04,6/22/2024
+138,Route A,MetroTrans,Abuja,Lagos,Stop C,2:49:14,7:52:55,6/23/2024
+139,Route C,CityRide,Lagos,Port Harcourt,Stop D,9:32:43,18:54:57,6/5/2024
+140,Route B,QuickMove,Port Harcourt,Abuja,Terminal 1,7:36:27,20:43:04,6/4/2024
+141,Route C,GreenLine,Lagos,Enugu,Stop A,2:28:39,10:23:19,6/15/2024
+142,Route A,GreenLine,Kano,Enugu,Stop A,20:05:53,8:29:16,6/15/2024
+143,Route A,CityRide,Kano,Enugu,Stop B,19:28:20,22:04:23,6/23/2024
+144,Route C,CityRide,Enugu,Port Harcourt,Terminal 2,5:03:25,15:22:49,6/26/2024
+145,Route C,GreenLine,Enugu,Kano,Stop B,8:03:46,21:24:19,6/9/2024
+146,Route B,QuickMove,Lagos,Kano,Stop B,7:34:21,0:15:03,6/8/2024
+147,Route D,MetroTrans,Port Harcourt,Enugu,Stop A,3:27:13,13:45:57,6/1/2024
+148,Route B,GreenLine,Port Harcourt,Kano,Stop D,5:32:12,11:24:05,6/2/2024
+149,Route D,MetroTrans,Kano,Lagos,Stop D,23:23:19,18:44:29,6/28/2024
+150,Route A,CityRide,Abuja,Lagos,Stop D,14:42:50,10:05:14,6/26/2024
+151,Route D,MetroTrans,Port Harcourt,Abuja,Terminal 2,11:47:13,23:20:51,6/16/2024
+152,Route A,QuickMove,Port Harcourt,Kano,Terminal 1,10:11:24,12:59:10,6/17/2024
+153,Route C,MetroTrans,Kano,Port Harcourt,Stop A,9:17:14,23:55:39,6/26/2024
+154,Route C,CityRide,Kano,Enugu,Stop A,12:31:44,23:12:00,6/22/2024
+155,Route A,QuickMove,Kano,Port Harcourt,Stop A,12:12:01,8:42:40,6/8/2024
+156,Route D,CityRide,Lagos,Enugu,Terminal 1,13:46:20,2:29:06,6/29/2024
+157,Route D,GreenLine,Kano,Lagos,Terminal 1,21:46:53,5:17:26,6/27/2024
+158,Route D,QuickMove,Enugu,Kano,Stop B,5:56:39,1:19:10,6/1/2024
+159,Route C,QuickMove,Port Harcourt,Abuja,Terminal 1,0:59:02,18:45:42,6/15/2024
+160,Route A,QuickMove,Enugu,Kano,Terminal 2,13:58:01,21:55:04,6/8/2024
+161,Route C,QuickMove,Abuja,Kano,Stop D,7:36:24,10:48:49,6/25/2024
+162,Route C,GreenLine,Enugu,Kano,Stop B,7:23:36,8:02:04,6/2/2024
+163,Route A,GreenLine,Port Harcourt,Enugu,Stop C,20:30:57,18:43:34,6/13/2024
+164,Route D,CityRide,Port Harcourt,Lagos,Stop B,21:52:27,15:52:13,6/26/2024
+165,Route C,GreenLine,Abuja,Lagos,Terminal 2,20:29:39,7:13:36,6/13/2024
+166,Route C,MetroTrans,Abuja,Kano,Stop C,12:33:42,10:38:48,6/27/2024
+167,Route D,CityRide,Abuja,Kano,Stop A,12:26:35,0:57:32,6/29/2024
+168,Route D,MetroTrans,Port Harcourt,Kano,Terminal 2,18:13:26,0:29:27,6/17/2024
+169,Route D,QuickMove,Abuja,Enugu,Terminal 1,9:59:01,23:48:32,6/11/2024
+170,Route C,MetroTrans,Lagos,Enugu,Stop C,9:10:03,7:21:41,6/12/2024
+171,Route C,QuickMove,Abuja,Port Harcourt,Stop C,21:36:04,13:57:06,6/24/2024
+172,Route B,CityRide,Lagos,Kano,Stop C,22:42:09,1:58:40,6/9/2024
+173,Route C,GreenLine,Port Harcourt,Lagos,Stop A,18:17:31,15:46:00,6/13/2024
+174,Route D,GreenLine,Enugu,Kano,Stop A,11:42:04,12:17:28,6/18/2024
+175,Route D,GreenLine,Lagos,Abuja,Stop B,12:57:22,6:06:15,6/25/2024
+176,Route D,CityRide,Port Harcourt,Lagos,Stop D,4:16:24,9:59:38,6/7/2024
+177,Route A,GreenLine,Abuja,Lagos,Stop A,1:59:07,21:19:29,7/1/2024
+178,Route A,GreenLine,Port Harcourt,Kano,Stop A,17:54:20,6:59:57,6/10/2024
+179,Route C,QuickMove,Kano,Port Harcourt,Terminal 1,0:55:00,22:27:09,6/16/2024
+180,Route A,QuickMove,Lagos,Enugu,Stop A,12:34:29,4:22:20,6/19/2024
+181,Route A,MetroTrans,Kano,Abuja,Terminal 1,6:17:57,3:15:08,6/30/2024
+182,Route C,QuickMove,Lagos,Port Harcourt,Stop A,14:06:40,5:22:08,6/5/2024
+183,Route A,QuickMove,Port Harcourt,Kano,Terminal 2,14:43:06,1:49:06,6/25/2024
+184,Route A,GreenLine,Abuja,Enugu,Stop D,9:17:49,5:45:15,6/14/2024
+185,Route A,GreenLine,Kano,Abuja,Stop A,11:17:51,17:47:16,6/19/2024
+186,Route A,MetroTrans,Abuja,Enugu,Stop C,4:03:06,6:06:40,6/20/2024
+187,Route D,GreenLine,Lagos,Enugu,Stop B,22:05:50,9:48:16,6/29/2024
+188,Route B,MetroTrans,Lagos,Kano,Stop D,21:14:44,23:38:24,6/19/2024
+189,Route D,GreenLine,Kano,Port Harcourt,Stop C,19:30:58,0:46:36,6/6/2024
+190,Route A,GreenLine,Lagos,Enugu,Stop B,21:39:23,23:04:27,6/26/2024
+191,Route C,MetroTrans,Enugu,Kano,Terminal 1,21:45:26,20:51:54,6/5/2024
+192,Route B,QuickMove,Enugu,Lagos,Terminal 2,19:32:34,21:53:31,6/10/2024
+193,Route B,GreenLine,Lagos,Kano,Stop A,14:19:45,17:40:47,6/19/2024
+194,Route B,MetroTrans,Port Harcourt,Lagos,Stop C,1:16:20,14:49:29,6/23/2024
+195,Route D,QuickMove,Abuja,Port Harcourt,Stop A,7:33:10,4:23:06,6/16/2024
+196,Route D,GreenLine,Enugu,Port Harcourt,Stop B,1:29:21,23:27:26,6/17/2024
+197,Route B,MetroTrans,Enugu,Abuja,Terminal 2,18:52:30,1:19:28,6/14/2024
+198,Route C,CityRide,Kano,Abuja,Stop D,20:37:25,9:38:15,6/26/2024
+199,Route C,GreenLine,Enugu,Port Harcourt,Stop A,18:58:25,7:08:09,6/14/2024
+200,Route D,MetroTrans,Abuja,Port Harcourt,Terminal 1,16:38:55,5:46:17,6/4/2024
